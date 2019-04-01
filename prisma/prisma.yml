@@ -1,0 +1,4 @@
+#endpoint: ${env:PRISMA_ENDPOINT}
+endpoint: https://hugo-blog-app-c6e0552eb1.herokuapp.com/hugo-blog-app/prod
+datamodel: datamodel.graphql
+secret: thisismysupersecrettext
